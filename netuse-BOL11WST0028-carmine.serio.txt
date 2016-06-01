@@ -1,0 +1,53 @@
+New connections will not be remembered.
+
+
+Status       Local     Remote                    Network
+
+-------------------------------------------------------------------------------
+OK           F:        \\mil9002a\expressB4B     Microsoft Windows Network
+OK           G:        \\mil11fsr004\oraprodit   Microsoft Windows Network
+OK           M:        \\mil11fsr004\metroprodit Microsoft Windows Network
+OK           P:        \\dus30fsrit01.de.madm.net\internal$ 
+                                                 Microsoft Windows Network
+OK           Q:        \\mil11fsr004\internal$   Microsoft Windows Network
+OK           S:        \\mil11fsr004\home$\carmine.serio 
+                                                 Microsoft Windows Network
+The command completed successfully.
+
+Microsoft (R) Windows Script Host Version 5.7
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Microsoft (R) Windows Script Host Version 5.7
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+UNC Defa HP LaserJet 4M Plus
+P72260028
+Microsoft XPS Document Writer
+Microsoft Office Document Image Writer
+HP LaserJet 4M Plus
+hp LaserJet 4250
+HP LaserJet 4 Plus
+HP LaserJet 2300 Series PCL 6
+hp LaserJet 1320 PCL 6
+GRAPMODE
+Faxination Printer
+Eltron P310 Card Printer
+CHARMODE
+BOLLINI
+UNC Path USB001 = P72260028
+UNC Path XPSPort: = Microsoft XPS Document Writer
+UNC Path Microsoft Document Imaging Writer Port: = Microsoft Office Document Image Writer
+UNC Path LPT1: = HP LaserJet 4M Plus
+UNC Path LPT1: = hp LaserJet 4250
+UNC Path LPT1: = HP LaserJet 4 Plus
+UNC Path DOT4_001 = HP LaserJet 2300 Series PCL 6
+UNC Path DOT4_001 = hp LaserJet 1320 PCL 6
+UNC Path LPT1: = GRAPMODE
+UNC Path FAX = Faxination Printer
+UNC Path Eltron LPT1: = Eltron P310 Card Printer
+UNC Path LPT1: = CHARMODE
+UNC Path LPT1: = BOLLINI
+Microsoft (R) Windows Script Host Version 5.7
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+NORMAL MAIL ADDRESS: Carmine.Serio@metro.it
